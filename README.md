@@ -9,10 +9,11 @@
 2021.07.12~14
 
 ## 사용언어/기술/프로그램/플랫폼
-.html5
-.css3
-.javascript/jQuery
-.gnuboard5
+. html5
+. css3
+. javascript/jQuery
+. gnuboard5
+. bootstrap v4.6.0
 
 ## 연락처
 * starasa@naver.com
